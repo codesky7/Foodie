@@ -16,7 +16,7 @@ const Footer = () => {
             <div className="footer-icons">
                 <BsFacebook/>
                 <BsTwitter/>
-                <BsYoutube/>
+                <BsYoutube/> 
                 <BsLinkedin/>
             </div>
         </div>
